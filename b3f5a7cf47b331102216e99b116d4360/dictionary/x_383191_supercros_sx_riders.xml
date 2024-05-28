@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="ac4c3f0747f731102216e99b116d4399" label="SX Riders" max_length="40" name="x_383191_supercros_sx_riders" type="collection">
+        <element label="Hometown" max_length="40" name="hometown" type="string"/>
+        <element label="Number" mandatory="true" max_length="40" name="number" type="string"/>
+        <element label="Rider Bike" max_length="40" name="rider_bike" type="string"/>
+        <element label="Rider Name" mandatory="true" max_length="40" name="rider_name" type="string"/>
+        <index name="index">
+            <element name="number"/>
+        </index>
+    </element>
+</database>

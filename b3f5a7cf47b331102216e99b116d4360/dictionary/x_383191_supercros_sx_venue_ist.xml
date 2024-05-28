@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="dbe9230347b731102216e99b116d437e" extends="sys_import_set_row" label="SX Venue IST" max_length="40" name="x_383191_supercros_sx_venue_ist" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Date" label="Date" max_length="40" name="u_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Location" label="Location" max_length="40" name="u_location" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Region" label="Region" max_length="40" name="u_region" type="string"/>
+        <element attributes="import_attribute_name=Round" label="Round" max_length="40" name="u_round" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Venue" label="Venue" max_length="40" name="u_venue" type="string"/>
+    </element>
+</database>

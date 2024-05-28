@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="3ef6a70f477731102216e99b116d4305" label="SX Tracks" max_length="40" name="x_383191_supercros_sx_tracks" type="collection">
+        <element label="Race Date" max_length="40" name="race_date" type="glide_date"/>
+        <element label="Race Location" max_length="40" name="race_location" type="string"/>
+        <element label="Race Region" max_length="40" name="race_region" type="string"/>
+        <element label="Race Venue" max_length="40" name="race_venue" type="string"/>
+        <element display="true" label="Round" mandatory="true" max_length="40" name="round" type="integer"/>
+        <element hint="is this tripple crown" label="Triple Crown" max_length="40" name="triple_crown" type="boolean"/>
+        <index name="index">
+            <element name="round"/>
+        </index>
+    </element>
+</database>

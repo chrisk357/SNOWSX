@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="9651cc6747b331102216e99b116d432f" label="SX Result" max_length="40" name="x_383191_supercros_race_results" type="collection">
+        <element label="Final Position" max_length="40" name="final_position" type="integer"/>
+        <element label="Holeshot" max_length="40" name="holeshot" type="boolean"/>
+        <element label="Laps Led" max_length="40" name="laps_led" type="integer"/>
+        <element label="Points" max_length="40" name="points" type="integer"/>
+        <element label="Qual Position" max_length="40" name="qual_position" type="integer"/>
+        <element label="Race Round" max_length="32" name="race_round" reference="x_383191_supercros_sx_tracks" type="reference"/>
+        <element label="Rider Number" max_length="32" name="rider_number" reference="x_383191_supercros_sx_riders" type="reference"/>
+        <element label="Start Position" max_length="40" name="start_position" type="integer"/>
+        <index name="index">
+            <element name="race_round"/>
+        </index>
+        <index name="index2">
+            <element name="rider_number"/>
+        </index>
+    </element>
+</database>

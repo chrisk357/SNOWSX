@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="d2fc3f4747f731102216e99b116d43e5" extends="sys_import_set_row" label="SX Rider IST" max_length="40" name="x_383191_supercros_sx_rider_ist" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=BIKE" label="BIKE" max_length="40" name="u_bike" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=FINISH" label="FINISH" max_length="40" name="u_finish" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=HOLESHOT" label="HOLESHOT" max_length="40" name="u_holeshot" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=HOMETOWN" label="HOMETOWN" max_length="40" name="u_hometown" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=LAPS LED" label="LAPS LED" max_length="40" name="u_laps_led" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Number" label="Number" max_length="40" name="u_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=POINTS" label="POINTS" max_length="40" name="u_points" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Position" label="Position" max_length="40" name="u_position" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Qualified" label="Qualified" max_length="40" name="u_qualified" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=RIDER" label="RIDER" max_length="40" name="u_rider" type="string"/>
+        <element attributes="import_attribute_name=Round" label="Round" max_length="40" name="u_round" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=START" label="START" max_length="40" name="u_start" type="string"/>
+    </element>
+</database>

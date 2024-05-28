@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_index">
+    <sys_index action="INSERT_OR_UPDATE">
+        <col_name_string>number</col_name_string>
+        <index_col_name element="number" name="x_383191_supercros_sx_riders">3c4cf78f47b731102216e99b116d4330</index_col_name>
+        <logical_table_name>x_383191_supercros_sx_riders</logical_table_name>
+        <sys_class_name>sys_index</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-01-23 14:07:44</sys_created_on>
+        <sys_id>9991bfd3477331102216e99b116d43fa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_383191_supercros_sx_riders</sys_name>
+        <sys_package display_value="Supercross" source="x_383191_supercros">b3f5a7cf47b331102216e99b116d4360</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Supercross">b3f5a7cf47b331102216e99b116d4360</sys_scope>
+        <sys_update_name>sys_index_x_383191_supercros_sx_riders_number</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-01-23 14:07:44</sys_updated_on>
+        <table display_value="SX Riders" name="x_383191_supercros_sx_riders">ac4c3f0747f731102216e99b116d4399</table>
+        <unique_index>false</unique_index>
+    </sys_index>
+</record_update>

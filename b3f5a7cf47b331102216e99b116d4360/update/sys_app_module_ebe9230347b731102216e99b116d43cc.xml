@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="System Import Sets">import_sets</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>SX Venue IST</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_383191_supercros_sx_venue_ist</name>
+        <order>1100</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-22 18:55:48</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ebe9230347b731102216e99b116d43cc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SX Venue IST</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Supercross" source="x_383191_supercros">b3f5a7cf47b331102216e99b116d4360</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Supercross">b3f5a7cf47b331102216e99b116d4360</sys_scope>
+        <sys_update_name>sys_app_module_ebe9230347b731102216e99b116d43cc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-22 18:55:48</sys_updated_on>
+        <timeline_page/>
+        <title>SX Venue IST</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>
